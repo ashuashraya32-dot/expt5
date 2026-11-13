@@ -1,2 +1,6 @@
 welcome JNNCE
+<<<<<<< HEAD
 modifying the github
+=======
+modifying the github 
+>>>>>>> 07a8f2a9d02b8683eb10b97552906150a31277cc
