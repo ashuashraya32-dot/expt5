@@ -3,4 +3,8 @@ welcome JNNCE
 modifying the github
 =======
 modifying the github 
+<<<<<<< HEAD
 >>>>>>> 07a8f2a9d02b8683eb10b97552906150a31277cc
+=======
+Ise
+>>>>>>> 5bbc821bf4e1de5f82dfb9abcdd2bea653e5e6ba
